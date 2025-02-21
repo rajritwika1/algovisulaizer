@@ -29,6 +29,9 @@ It also includes C++ implementations of the sorting algorithms for reference.
 - **Algorithms (Reference Code):** C++  
 
 ---
+## 📌Licence
+- This project is open-source and available under the MIT License.
+--
 
 ## 📌 How to Use 🚀
 ### **1️⃣ Run the Sorting Visualizer**
